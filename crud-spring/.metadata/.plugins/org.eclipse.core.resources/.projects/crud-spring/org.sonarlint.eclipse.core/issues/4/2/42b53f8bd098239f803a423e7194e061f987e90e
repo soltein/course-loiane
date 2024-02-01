@@ -1,0 +1,8 @@
+
+v	java:S106"+Replace this use of System.out by a logger.8œØõÊÀ1RMAJORZ
+CODE_SMELLb bb1c3f2ea781263d3a2bb92b06a2061f
+ž
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'8‘ë¤ËÀ1RMAJORZ
+CODE_SMELLb f31c9542f92d797a57d6f9bafca179cd
+v	java:S106"+Replace this use of System.out by a logger.8­÷§ËÀ1RMAJORZ
+CODE_SMELLb bb1c3f2ea781263d3a2bb92b06a2061f
